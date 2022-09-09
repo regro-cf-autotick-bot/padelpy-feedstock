@@ -1,5 +1,5 @@
 {% set name = "padelpy" %}
-{% set version = "0.1.11" %}
+{% set version = "0.1.12" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/padelpy-{{ version }}.tar.gz
-  sha256: b490dc31c59f31d05628bd95b10d27666d689888f22043d75528914e90c7b479
+  sha256: 0561c86084ef9bcd418c17908407de89c4a746192fae9368d7329b148be34aac
 
 build:
   number: 0
