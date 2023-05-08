@@ -1,11 +1,11 @@
-About padelpy
-=============
+About padelpy-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/padelpy-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/ecrl/padelpy
 
 Package license: AGPL-3.0-only AND LGPL-2.1-only AND MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/padelpy-feedstock/blob/main/LICENSE.txt)
 
 Summary: A Python wrapper for PaDEL-Descriptor
 
